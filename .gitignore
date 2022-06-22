@@ -125,3 +125,6 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 .idea/
+/chapters/chapter_5/5_3_doc_classification/data/glove/glove.6B.100d.txt
+/chapters/chapter_5/data/glove/glove.6B.100d.txt
+/chapters/chapter_5/5_2_CBOW/data/books/frankenstein.txt
