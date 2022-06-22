@@ -1,0 +1,13 @@
+tqdm
+matplotlib
+nltk
+jupyter
+pandas
+seaborn
+scipy
+nose
+annoy
+numpy
+requests
+spacy
+nltk
