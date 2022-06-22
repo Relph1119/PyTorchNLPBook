@@ -128,3 +128,4 @@ ipython_config.py
 /chapters/chapter_5/5_3_doc_classification/data/glove/glove.6B.100d.txt
 /chapters/chapter_5/data/glove/glove.6B.100d.txt
 /chapters/chapter_5/5_2_CBOW/data/books/frankenstein.txt
+/chapters/chapter_8/8_5_NMT/data/nmt/eng-fra.txt
